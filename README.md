@@ -8,3 +8,7 @@ Kaggle Dataset Link: https://www.kaggle.com/uciml/iris
 
 ## Plots
 
+##  KNN classification 
+on the following dataset: 
+https://www.kaggle.com/uciml/iris
+
